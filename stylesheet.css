@@ -102,9 +102,11 @@ h4{
     color: blue;
 }
 
-.map{
+.map-img{
     width: 200px;
-    height: 200px;
+}
+
+.map{
     margin: 0 auto;
 }
 
