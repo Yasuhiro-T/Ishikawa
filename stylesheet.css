@@ -5,12 +5,17 @@
     flex-direction: column;
     border: solid 1px black;
     padding-left: 10px;
+    padding-bottom: 5px;
     margin-bottom: 10px;
 }
 
 .map{
     width: 200px;
     height: 200px;
+}
+
+.time{
+    margin: 0;
 }
 
 /* 目的地　ここまで */
