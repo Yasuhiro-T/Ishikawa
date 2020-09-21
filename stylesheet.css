@@ -1,5 +1,17 @@
 
 /* 目的地 */
+.date{
+    font-size: 40px;
+    margin: 0;
+}
+
+.free-time{
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    margin: 0;
+}
+
 .destination{
     display: flex;
     flex-direction: column;
@@ -7,6 +19,12 @@
     padding-left: 10px;
     padding-bottom: 5px;
     margin-bottom: 10px;
+}
+
+h4{
+    font-size: 30px;
+    margin: 0;
+    color: blue;
 }
 
 .map{
