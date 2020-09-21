@@ -1,5 +1,9 @@
 
 /* 目的地 */
+.schedule{
+    margin: 0 40px;
+}
+
 .date{
     font-size: 40px;
     margin: 0;
@@ -10,6 +14,10 @@
     color: red;
     font-weight: bold;
     margin: 0;
+}
+
+.photo{
+    width: 300px;
 }
 
 .destination{
