@@ -1,5 +1,6 @@
 body{
     background-color: rgba(164, 255, 164, 0.452);
+    overflow-x: hidden;
 }
 
 /* ヘッダー */
