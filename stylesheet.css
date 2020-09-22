@@ -1,5 +1,8 @@
 body{
-    background-color: rgba(164, 255, 164, 0.452);
+    background-color: rgba(164, 255, 164, 0.452);    
+}
+
+.wrapper{
     overflow-x: hidden;
 }
 
